@@ -508,7 +508,6 @@ transition-delay: 0s, 0.2s;
   height: 200px;
   width: 200px;
   transform: translate(-50%, -50%);
-  background-color: var(--main-color);
   border-radius: 50%;
   z-index: -1;
 }

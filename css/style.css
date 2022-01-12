@@ -1040,8 +1040,8 @@ padding-top: 20px;
 }
 .contact-details,
 .contact-form{
-  grid-column: span12;
-  text-align: center;
+  grid-column: span6;
+  
 }
 .contact-form{
   margin-top: 40px;

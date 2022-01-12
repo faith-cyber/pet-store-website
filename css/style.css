@@ -1008,27 +1008,7 @@ padding-top: 20px;
 .footer-item{
   grid-column: span 6;
 }
-.preloader{
-  position: fixed;
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: 1000%;
-  background-color: white;
-  z-index: 10;
-  display: flex;
-}
-.preloader img{
-  width: 350px;
-  height: 350px;
-  display: block;
-  text-align: center;
-  position: relative;
-  left: 530px;
-  top: 200px;
-  animation: zoomInOut 1s linear infinite;
-  
-}
+
 }
 @media(max-width: 768px){
 .container{
@@ -1061,31 +1041,12 @@ padding-top: 20px;
 .contact-details,
 .contact-form{
   grid-column: span12;
+  text-align: center;
 }
 .contact-form{
   margin-top: 40px;
 }
-.preloader{
-  position: fixed;
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: 1000%;
-  background-color: white;
-  z-index: 10;
-  display: flex;
-}
-.preloader img{
-  width: 350px;
-  height: 350px;
-  display: block;
-  text-align: center;
-  position: relative;
-  left: 530px;
-  top: 200px;
-  animation: zoomInOut 1s linear infinite;
-  
-}
+
 }
 @media(max-width: 575px){
   .services-item{
@@ -1100,27 +1061,7 @@ padding-top: 20px;
   .row{
     grid-gap: 15px;
   }
-  .preloader{
-    position: fixed;
-    left: 0;
-    top: 0;
-    height: 100%;
-    width: 1000%;
-    background-color: white;
-    z-index: 10;
-    display: flex;
-  }
-  .preloader img{
-    width: 350px;
-    height: 350px;
-    display: block;
-    text-align: center;
-    position: relative;
-    left: 530px;
-    top: 200px;
-    animation: zoomInOut 1s linear infinite;
-    
-  }
+  
 
 }
 

@@ -153,7 +153,7 @@ ul{
 font-size: 30px;
 font-weight: 500;
 text-transform: uppercase;
-color: var(--main-color);
+color: rgb(150, 9, 9);
 margin: 0 0 8px;
 }
 .section-title .sub-title{
@@ -392,6 +392,7 @@ textarea.input-control{
 }
 .logo img{
   width: 55px;
+  height: 55px
 }
 .nav-toggler{
   height: 34px;
@@ -766,10 +767,10 @@ padding-top: 20px;
   background-color: var(--light-red);
 }
   .pricing-2 .pricing-footer .btn{
-    background-color: var(--main-color);
+    background-color: var(--light-red);
   }
   .pricing-3 .pricing-footer .btn{
-    background-color: var(--light-yellow);
+    background-color: var(--light-red);
   }
   .cat{
     position: relative;

@@ -1083,13 +1083,13 @@ padding-top: 20px;
   display: flex;
 }
 .preloader img{
-  width: 350px;
-  height: 350px;
+  width: 300px;
+  height: 300px;
   display: block;
   text-align: center;
   position: relative;
-  left: 530px;
-  top: 200px;
+  left: 60px;
+  top: 150px;
   animation: zoomInOut 1s linear infinite;
   
 }
